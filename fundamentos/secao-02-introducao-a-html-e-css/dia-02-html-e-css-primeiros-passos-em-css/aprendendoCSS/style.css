@@ -1,0 +1,27 @@
+
+        body{
+            background-color: lightgray;
+            font-size: 20px;
+        }
+        h2{
+            color: blue;
+            font-size: 2em;
+        }
+        P{
+            font-family: monospace, sans-serif;
+        }
+        #extinct-especie{
+            background-color: red;
+        }
+        #title-descricao{
+            color: orange;
+        }
+        .lista-style{
+            background-color: blue;
+            color: white;
+            font-weight: bold;
+            font-style: italic;
+            line-height: 40px;
+            text-align: center;
+            text-decoration: underline;
+        }
