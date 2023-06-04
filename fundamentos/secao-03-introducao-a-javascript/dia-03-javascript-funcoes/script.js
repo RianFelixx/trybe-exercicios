@@ -1,4 +1,4 @@
-/* let clientesTrybeBank = ['Rian', 'Luyanna', 'Karian'];
+/*let clientesTrybeBank = ['Rian', 'Luyanna', 'Karian'];
 
 function cumprimentaCliente(cliente){
     return 'Olá,' + cliente + '. Essa é sua conta TrybeBank.';
